@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { FwModule } from '../fw/fw.module'
 
 @Component({
   selector: 'app-root',
